@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a366bd8c-03f1-4be3-9223-44585ae93f28" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZX90hyyfEhNKYk3Toqc4THOLcs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RunManager" selected="Application.Polymorphism">
+    <configuration name="Polymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism" />
+      <module name="Methods" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="megaByteMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="megaByteMachine" />
+      <module name="Methods" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="newMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newMethods" />
+      <module name="Methods" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Polymorphism" />
+        <item itemvalue="Application.megaByteMachine" />
+        <item itemvalue="Application.newMethods" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a366bd8c-03f1-4be3-9223-44585ae93f28" name="Default Changelist" comment="" />
+      <created>1584974350257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584974350257</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="127" key="GridCell.Tab.0.bottom" timestamp="1584985212546">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="127" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1584977593098" />
+    <state width="1398" height="127" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1584985212546" />
+    <state width="1398" height="127" key="GridCell.Tab.0.center" timestamp="1584985212545">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="127" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1584977593097" />
+    <state width="1398" height="127" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1584985212545" />
+    <state width="1398" height="127" key="GridCell.Tab.0.left" timestamp="1584985212544">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="127" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1584977593096" />
+    <state width="1398" height="127" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1584985212544" />
+    <state width="1398" height="127" key="GridCell.Tab.0.right" timestamp="1584985212546">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="127" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1584977593097" />
+    <state width="1398" height="127" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1584985212546" />
+    <state x="413" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1587319201596">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="413" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.833@0.23.1440.833" timestamp="1587319201596" />
+  </component>
+</project>
